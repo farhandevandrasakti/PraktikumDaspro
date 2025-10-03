@@ -18,7 +18,7 @@ public class ifCetakKRS12 {
         String hasil = uktLunas ? 
             "Pembayaran UKT terverifikasi.\nSilakan cetak KRS dan minta tanda tangan DPA" : 
             "Registrasi ditolak. Silakan lunasi UKT terlebih dahulu";
-        System.out.println("\nHasil dengan Ternary Operator:");
+        System.out.println("\nHasil dengan Ternary Operator: ");
         System.out.println(hasil);
     }
 }
