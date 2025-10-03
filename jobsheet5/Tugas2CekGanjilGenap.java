@@ -9,9 +9,9 @@ public class Tugas2CekGanjilGenap {
         int angka = sc.nextInt();
         
         if (angka % 2 == 0) {
-            System.out.println("Genap");
+            System.out.println("Genap ");
         } else {
-            System.out.println("Ganjil");
+            System.out.println("Ganjil ");
         }
     }
 }
