@@ -26,7 +26,7 @@ public class switchCetakKRS12 {
         } else if (semester == 8) {
             System.out.println("KRS Semester 8 ditampilkan");
         } else {
-            System.out.println("Semester tidak valid");
+            System.out.println("Semester tidak valid.");
         }
     }
 }
